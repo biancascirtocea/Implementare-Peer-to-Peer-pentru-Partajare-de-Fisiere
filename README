@@ -1,4 +1,4 @@
-# Tema2 APD Scirtocea Bianca-Ioana 331CB 
+# Proiect2 APD Scirtocea Bianca-Ioana 331CB 
 # Implementare Peer-to-Peer pentru Partajare de Fisiere
 
 Tema implementează un sistem distribuit de tip Peer-to-Peer pentru partajarea fișierelor, folosind MPI (Message Passing Interface) și thread-uri. Proiectul este împărțit în mai multe module, fiecare contribuind la funcționalitatea generală.
